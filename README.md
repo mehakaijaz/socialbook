@@ -103,3 +103,4 @@ The frontend uses static files managed by Django. Ensure that the static files a
 - `manage.py`: Command-line utility for administrative tasks.
 - `templates`: HTML templates for rendering the frontend.
 - `static/`: Static files (CSS, JavaScript, images).
+- `media`: Uploaded files(images,vedioes)
